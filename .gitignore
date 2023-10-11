@@ -1,0 +1,10 @@
+Binaries/
+Build/
+*_BuiltData.uasset
+Saved/
+Intermediate/
+DerivedDataCache/
+WindowsNoEditor/
+Content/mods/
+*.png
+*.fbx
